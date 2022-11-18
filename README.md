@@ -8,5 +8,3 @@ I would strictly suggest you to go through the images once, incase you found any
 
 ### You are welcome to fork this repository, re-use or improve its content for your projects.
 
-> **Discord: Zerf#7071**
-
