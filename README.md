@@ -6,5 +6,5 @@ I would strictly suggest you to go through the images once, incase you found any
 1. [ Hcaptcha Scrapper ](https://github.com/Mewzax/Hcaptcha-Images-Scraper " Mewzax github")
 2. Tool which helped alot in organizing pictures, finding similar ones, removing duplicate ones: [duplicate photo cleaner](https://www.duplicatephotocleaner.com/download "duplicate photo cleaner")
 
-### You are welcome to fork this repository, re-use or improve its content for your projects.
+### Dead Project
 
